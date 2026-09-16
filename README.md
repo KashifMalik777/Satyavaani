@@ -78,4 +78,4 @@ See `docs/OWNERSHIP.md`.
 - **Day 1** — end-to-end green with stub scores; **RTF benchmarked on the demo laptop**
 - **Day 2, 6pm** — fine-tune vs baseline on held-out set; the winner ships, decided by number
 - **Day 3, 11am** — last merge for anything new
-- **Day 3, 2pm** — code freeze. Everyone off keyboards.
+- 
